@@ -4,7 +4,7 @@
 <p>📚  I'm currently studying Software Development Diploma at Bow Valley College - Calgary, AB </p>
 <p>👩🏾‍💻  Successfully completed a SheCodes workshop: Web Development. (April 25, 2022)</p>
 
-  <div>
+  <div align="center">
   <a href="https://github.com/uyaramm">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=uyaramm&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uyaramm&layout=compact&langs_count=7&theme=react" />
@@ -13,7 +13,7 @@
  
   ##
 
-</div>
+<div align="center">
   <a href="https://www.linkedin.com/in/uyara-martins-montovaneli-3238a6254/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/uyaramm/uyaramm/blob/output/github-contribution-grid-snake.svg)
